@@ -10,11 +10,15 @@
   }
 }
 
-#buttons {
-  padding: 20px 10px;
-
+ion-button {
+  font-size: 2rem;
 }
 
+.button1 {
+  display: flex;
+  justify-content: center;
+}
 
-
-
+.button2 {
+  text-align: center;
+}
